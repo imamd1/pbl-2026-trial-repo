@@ -5,7 +5,7 @@
 | Nama | NIM | Phase Lead untuk Fase |
 |---|---|---|
 | [Djoko Imam] | [1611000121301] | Discover, Build |
-| [Nama 2] | [NIM] | Frame, Test |
+| [Djoko Imam P] | [NIM] | Frame, Test |
 | [Nama 3] | [NIM] | Define, Communicate |
 | [Nama 4] | [NIM] | Design, Reflect |
 
